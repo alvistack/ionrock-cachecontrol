@@ -1,0 +1,4 @@
+python-cachecontrol source: no-debian-changes
+python-cachecontrol source: source-contains-prebuilt-windows-binary
+python-cachecontrol source: source-is-missing
+python-cachecontrol source: source-package-encodes-python-version
